@@ -4,4 +4,4 @@ matplotlib
 seaborn
 yfinance
 PyPortfolioOpt
-streamlit 
+streamlit
